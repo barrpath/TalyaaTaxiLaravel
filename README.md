@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
+	<title>From Barkat : email :barrpath@gmail.com</title>
 	<meta name="generator" content="LibreOffice 6.0.7.3 (Linux)"/>
 	<meta name="created" content="00:00:00"/>
 	<meta name="changed" content="2020-07-24T04:36:32.209376612"/>
@@ -11,7 +11,7 @@
 <p align="left"><font color="#ce181e"><font size="4" style="font-size: 15pt"><i><u><span style="background: #fff685">Please
 be noted :</span></u></i></font></font></p>
 <p align="left"><font color="#ce181e"><font size="4" style="font-size: 15pt"><i><u><span style="background: #fff685">(1)
- Laravel CURD included with : </span></u></i></font></font>
+ Laravel CURD operation  : </span></u></i></font></font>
 </p>
 <p align="left"><font color="#ce181e"><font size="4" style="font-size: 15pt"><i><span style="background: #fff685"><span style="text-decoration: none"><b>	</b></span><u>Contain
 an example in Laravel 7</u></span></i></font></font></p>
