@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title>From Barkat : email :barrpath@gmail.com</title>
+	From Barkat : email :barrpath@gmail.com
 	<meta name="generator" content="LibreOffice 6.0.7.3 (Linux)"/>
 	<meta name="created" content="00:00:00"/>
 	<meta name="changed" content="2020-07-24T04:36:32.209376612"/>
